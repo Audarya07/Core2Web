@@ -1,0 +1,17 @@
+*****Notes******
+
+
+1. Java does not support operator overloading.
+2. Java does not support multiple inheritance instead has provided the concept of "Interfaces".
+
+3. byte --> 1 byte = -128 to 127
+4. short --> 2 byte = -32768 to 32767
+5. int --> 4 byte = -2148364648 to 2148364647
+6. long --> 8 byte
+7. float --> 4byte
+8  double --> 8 byte
+9. char --> 2 byte
+10 boolean --> JVM dependent
+
+11. Ex. float x = 20.6;		takes double as default type.Can be considered as float if we write --> float x = 20.6f;
+

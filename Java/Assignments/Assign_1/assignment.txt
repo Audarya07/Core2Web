@@ -1,0 +1,3 @@
+1) Pass special characters as command Line arguments. 
+Write your explaination as comment in code, 
+and you must provie the "SCREENSHOT" of terminal.

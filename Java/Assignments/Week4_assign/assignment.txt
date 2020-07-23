@@ -1,0 +1,29 @@
+1) Reflect yourself as an 'OOP' entity and define your 'state' and 'behaviors'.
+2) Find output of given code and draw the JVM digram
+class Child {
+
+	int a = 10;
+	static int b = 20;
+}
+
+class Demo {
+
+	public static void main(String[] args) {
+
+		Child c1 = new Child();
+		Child c2 = new Child();
+
+		c1.a = 40;
+		c1.b = 40;
+
+		System.out.println(c1.a + " " + c1.b);
+		System.out.println(c2.a + " " + c2.b);
+	}
+}
+
+3) Write a real time example of Class and Object on 'Vegetable Market'
+
+4) Find out the difference bewteen System.out.print() and System.out.println()
+by typing a code and write the difference as comment in code
+
+5)Use System.out.printf()in your program to print int and char value.
